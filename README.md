@@ -22,3 +22,5 @@ En él se muestra el funcionamiento de puertas cuánticas fundamentales mediante
 
 ## ❌ Política de Contribuciones  
 Este proyecto no acepta contribuciones externas hasta su versión final
+
+
