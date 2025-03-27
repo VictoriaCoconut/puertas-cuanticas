@@ -5,6 +5,8 @@
 
 [![Proyecto FP](https://img.shields.io/badge/📚-Proyecto_en_Desarrollo-8A2BE2)](https://github.com/VictoriaCoconut/Puertas-Cuánticas)
 
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-green.svg)](LICENSE)
+
 *Simulaciones interactivas de puertas lógicas cuánticas en Jupyter Notebook*  
 
 ## 🌌 Descripción
