@@ -1,5 +1,6 @@
 # Tutorial de puertas lógicas cuánticas con Qiskit
 
+[![GitHub](https://img.shields.io/badge/🌟-Mi_Primer_Proyecto_GitHub-blue)](https://github.com/VictoriaCoconut/puertas-cuanticas)
 
 [![Proyecto Final FP](https://img.shields.io/badge/🎓-Proyecto_Final_FP-important)](https://github.com/VictoriaCoconut/Puertas-Cuánticas)
 
